@@ -1,5 +1,5 @@
 {
-  "name": "mediaplayer",
+  "name": "@alejandro-os/platzimediaplayer",
   "version": "1.0.0",
   "description": "",
   "main": "lib/MediaPlayer.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Profesor Richard Kaufman - Alejandro Sepulveda",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.4.3"

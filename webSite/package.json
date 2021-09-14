@@ -1,0 +1,21 @@
+{
+  "name": "javascriptprofesional",
+  "version": "1.0.0",
+  "description": "Proyecto del curso profesional de JavaScript de la escuela de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [
+    "platzi"
+  ],
+  "author": "Richard B. Kaufman López",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.4.3"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}
